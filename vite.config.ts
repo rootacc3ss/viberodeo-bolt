@@ -9,7 +9,8 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  // Remove the exclusion of lucide-react to fix Firefox compatibility
   optimizeDeps: {
-    exclude: ['lucide-react'],
+    // We're no longer excluding lucide-react
   },
 });
