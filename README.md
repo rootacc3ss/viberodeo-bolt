@@ -2,7 +2,6 @@
 
 NOTE: For some reason, this build is not working when running "npm run dev" in Firefox, but it works fine in the Winsurf Chromium browser. I'll figure out why and fix that later. It may be a problem with how Bolt builds it for WebContainer.
 
-![Bolt.new](https://img.shields.io/badge/Created%20with-Bolt.new-black)
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.4.8-purple)
